@@ -1,0 +1,12 @@
+/home/bakerg/repositories/rust-solutions/chapter_01/hello/target/debug/deps/assert_cmd-af463c44b40e0274.rmeta: /home/bakerg/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/lib.rs /home/bakerg/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/assert.rs /home/bakerg/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/cargo.rs /home/bakerg/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/cmd.rs /home/bakerg/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/output.rs /home/bakerg/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/../README.md
+
+/home/bakerg/repositories/rust-solutions/chapter_01/hello/target/debug/deps/libassert_cmd-af463c44b40e0274.rlib: /home/bakerg/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/lib.rs /home/bakerg/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/assert.rs /home/bakerg/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/cargo.rs /home/bakerg/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/cmd.rs /home/bakerg/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/output.rs /home/bakerg/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/../README.md
+
+/home/bakerg/repositories/rust-solutions/chapter_01/hello/target/debug/deps/assert_cmd-af463c44b40e0274.d: /home/bakerg/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/lib.rs /home/bakerg/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/assert.rs /home/bakerg/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/cargo.rs /home/bakerg/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/cmd.rs /home/bakerg/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/output.rs /home/bakerg/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/../README.md
+
+/home/bakerg/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/lib.rs:
+/home/bakerg/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/assert.rs:
+/home/bakerg/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/cargo.rs:
+/home/bakerg/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/cmd.rs:
+/home/bakerg/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/output.rs:
+/home/bakerg/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/../README.md:
