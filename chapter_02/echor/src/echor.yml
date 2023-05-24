@@ -1,0 +1,16 @@
+name: echor
+version : "0.1.0"
+author: George Baker
+about: Rust echo
+args:
+  - text:
+      value_name: TEXT
+      required: true
+      help: Input text
+      min_values: 1
+  - omit_newline:
+      short: n
+      long: omit_newline
+      help: Do not print newline
+      takes_value: false
+
